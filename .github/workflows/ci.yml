@@ -1,0 +1,10 @@
+# .github/workflows/ci.yml
+name: Dummy CI
+
+on: [pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Pretend this is a real test"
