@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Soheil
 
-Senior Python Backend Engineer with 6+ years of experience.
+Senior Python Backend and Applied ML dev with 6+ years of experience.
 
 I work mainly with:
 - Python, FastAPI, async systems
